@@ -487,7 +487,7 @@ void loop() {
             display.display();
             // send
             memset(srfm,'\0',SRFMLEN);
-            //*
+            /*
              * Radio LoRa: Send the value up (Move up) to the receiver module
              */
             sprintf(srfm,"up");
