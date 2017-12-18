@@ -16,8 +16,8 @@
 /*
  * Creating objects
  */
+
 Smartidea Si;
-SiI2Cscan I2Cscan;
 Adafruit_SSD1306 display;
 
 /* 
